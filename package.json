@@ -1,0 +1,15 @@
+{
+  "name": "piserver",
+  "version": "1.0.0",
+  "description": "Playing around with a raspberry pi",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
